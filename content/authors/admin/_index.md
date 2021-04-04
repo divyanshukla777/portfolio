@@ -6,7 +6,8 @@ title: Divyanshu Shukla
 superuser: true
 
 # Role/position/tagline
-role: Computer Science and Engineering Undergraduate
+role:  Undergraduate Student 
+    Computer Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
