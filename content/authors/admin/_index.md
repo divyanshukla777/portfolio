@@ -6,7 +6,8 @@ title: Divyanshu Shukla
 superuser: true
 
 # Role/position/tagline
-role: Computer Science and Engineering
+role: UG Student 
+Computer Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +15,7 @@ organizations:
   url: https://www.knit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and its application.
+bio: Btech CSE, KNIT Sultanpur.
 
 # Interests to show in About widget
 interests:
@@ -42,13 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: divyanshukla777@gmail.com
+  link: https://divyanshukla777@gmail.com
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/divyanshukla777
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/divyanshukla777
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=O0PCh_gAAAAJ&hl=en
