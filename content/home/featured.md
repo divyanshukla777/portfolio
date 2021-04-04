@@ -4,7 +4,7 @@
 widget: featured
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 80
@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: Divyanshu Shukla
     category: ""
     publication_type: ""
     tag: ""
